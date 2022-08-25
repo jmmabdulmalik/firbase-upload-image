@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "772114926129",
+    "project_id": "firbasestorage-88a51",
+    "storage_bucket": "firbasestorage-88a51.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:772114926129:android:014e33b89ace6719d0a310",
+        "android_client_info": {
+          "package_name": "com.example.firbase_storage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "772114926129-kk41eiau14f2nmpungk29fcgv80gb13m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firbase_storage",
+            "certificate_hash": "0116e288065ad443300a9015597938f6ef248852"
+          }
+        },
+        {
+          "client_id": "772114926129-vmg12nia07ani1h4kao2sr8lg1809adf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDr5zJsWl0XgreS4tgKxZ8ogBER8zP1Qu4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "772114926129-vmg12nia07ani1h4kao2sr8lg1809adf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
